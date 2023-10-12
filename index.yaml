@@ -3,12 +3,12 @@ entries:
   datascientest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-09T15:16:05.028866191Z"
+    created: "2023-10-12T14:55:50.696449923Z"
     description: A Helm chart for Kubernetes
-    digest: 83f4fbc73f72740c0bcc1f575a74ebdcdb772da501e9c814f5a50a0ee4d15c82
+    digest: 6e1d063ac8c33d3e4ed682d4d035d6d3aea362c856f907a37fd13c5c8d4b5abb
     name: datascientest
     type: application
     urls:
     - git@github.com:ifazia/chart-k8s.git/datascientest-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-09T15:16:05.028297024Z"
+generated: "2023-10-12T14:55:50.695846067Z"
